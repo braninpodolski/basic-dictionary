@@ -9,3 +9,4 @@ To install, run the following command in Terminal (Mac) or CMD (Windows):
 
 # Usage
 To use Basic Dictionary, simply run `python3 dictionary.py`
+If you misspell the word you are searching for, Basic Dictionary will intelligently suggest the word your were looking for. To accept this correction, simply type 'Y' when prompted.
